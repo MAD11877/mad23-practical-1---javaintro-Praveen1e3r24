@@ -6,7 +6,7 @@ public class Question2
   public static void main(String[] args) {
   
     Scanner myobj = new Scanner(System.in);
-     System.out.println("Enter height");
+    // System.out.println("Enter height");
        
     double height = myobj.nextDouble();
     System.out.println("Enter weight");
