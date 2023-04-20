@@ -9,7 +9,7 @@ public class Question2
     // System.out.println("Enter height");
        
     double height = myobj.nextDouble();
-    System.out.println("Enter weight");
+    //System.out.println("Enter weight");
     double weight= myobj.nextDouble();
   
 
