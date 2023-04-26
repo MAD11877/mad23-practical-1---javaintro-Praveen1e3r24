@@ -7,7 +7,7 @@ public class Question4
     Scanner myobj = new Scanner(System.in);
     // System.out.println("Enter integer");
        
-    int integer = myobj.nextInt();
+   // int integer = myobj.nextInt();
     
    
    while(integer>0){
