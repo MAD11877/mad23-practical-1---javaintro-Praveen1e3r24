@@ -9,8 +9,7 @@ public class Question5
      //System.out.println("Enter integer");
        
    // int integer = myobj.nextInt();
-    int[] intarray;
-    intarray = new int [integer];
+    int[]  intarray = new int [integer];
     int x =0;
     
    
