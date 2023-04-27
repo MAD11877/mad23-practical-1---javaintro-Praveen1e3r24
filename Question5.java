@@ -14,9 +14,9 @@ public class Question5
     
    
    while(0<integer){
-     System.out.println("Enter integer");
+    // System.out.println("Enter integer");
        
-    int integers = myobj.nextInt();
+   // int integers = myobj.nextInt();
      intarray[integer-1]=integers;
       integer--;
     
